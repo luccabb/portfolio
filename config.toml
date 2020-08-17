@@ -1,4 +1,4 @@
-baseURL                          = "https://eloquent-elion-d5af9b.netlify.app/"  # Your domain name. Must end with "/"
+baseURL                          = "https://luccabertoncini.netlify.app/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
