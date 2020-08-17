@@ -2,7 +2,7 @@
 title: "Comma.ai"
 weight: 1
 resources:
-    - src: ../../../../static/images/comma.ai/website.png
+    - src: website.png
       params:
           weight: -400
 ---
