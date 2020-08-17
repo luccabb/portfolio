@@ -3,4 +3,4 @@ title: "Projects"
 weight: 10
 ---
 
-Here is some introduction text for my projects. You can set this text in the `/projects/_index.md` file. This page uses the `/layouts/projects/list.html` template.
+Here is some of the projects I have been working on the last years. You can also check my Github for more projects, and more details about them. [https://github.com/luccabb](https://github.com/luccabb)
