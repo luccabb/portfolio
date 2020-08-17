@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://luccabertoncini.netlify.app/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://luccabertoncini.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comma.ai</title>
+      <link>https://luccabertoncini.netlify.app/projects/comma.ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/comma.ai/</guid>
+      <description>Data visualization of car rides in the bay area. Github Repository: https://github.com/luccabb/comma.ai</description>
+    </item>
+    
+    <item>
+      <title>Github Explorer</title>
+      <link>https://luccabertoncini.netlify.app/projects/github_explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/github_explorer/</guid>
+      <description>Github explorer, built using Github API and React. Github Repository: https://github.com/luccabb/github_explorer</description>
+    </item>
+    
+    <item>
+      <title>Github Repositories</title>
+      <link>https://luccabertoncini.netlify.app/projects/github_repositories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/github_repositories/</guid>
+      <description>Github Repositories list, Fullstack application (Backend, Frontend, Mobile) built using Github API, React, React Native, and Node. Backend: https://github.com/luccabb/simple_node_local_backend. Frontend: https://github.com/luccabb/simple_react_frontend. Mobile: https://github.com/luccabb/simple_reactnative_frontend.</description>
+    </item>
+    
+    <item>
+      <title>Marketplace App</title>
+      <link>https://luccabertoncini.netlify.app/projects/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/marketplace/</guid>
+      <description>Marketplace App, Frontend Mobile built with React Native. Github Repository: : https://github.com/luccabb/simple_react_native.</description>
+    </item>
+    
+    <item>
+      <title>NGOs</title>
+      <link>https://luccabertoncini.netlify.app/projects/ngos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/ngos/</guid>
+      <description>Platform to register NGOs help cases, fullstack application (Backend, Frontend, Mobile) built using React, React Native, and Node. Github Repository: https://github.com/luccabb/ngos.</description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://luccabertoncini.netlify.app/projects/social_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/social_network/</guid>
+      <description>Social Media platform, build with Ruby on Rails. Github Repository: https://github.com/luccabb/sample_app.</description>
+    </item>
+    
+    <item>
+      <title>Transactions Dashboard</title>
+      <link>https://luccabertoncini.netlify.app/projects/transactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/transactions/</guid>
+      <description>Transactions Dashboard, Frontend and Backend built respectively with React and Node. Frontend: https://github.com/luccabb/node_transactions_react. Backend:https://github.com/luccabb/node_simple_transactions.</description>
+    </item>
+    
+    <item>
+      <title>Dog API</title>
+      <link>https://luccabertoncini.netlify.app/projects/dog.api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luccabertoncini.netlify.app/projects/dog.api/</guid>
+      <description>Web app random generator of Dog Images. Github Repository: https://github.com/luccabb/dogApi</description>
+    </item>
+    
+  </channel>
+</rss>
